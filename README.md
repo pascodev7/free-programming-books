@@ -77,6 +77,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 ### Problem Sets and Competitive Programming
 + [Problem Sets](/problem-sets-competitive-programming.md)
 
+### Microprocessor exercices
+https://www.xorpd.net
+
 
 ### Podcast - Screencast
 Free Podcasts and Screencasts:
